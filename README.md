@@ -1,5 +1,3 @@
-Here’s a **formal and comprehensive README** tailored to the code you just shared. It explains the dataset workflow, preprocessing, models, and evaluation steps clearly without unnecessary fluff:
-
 ---
 
 # Student AI Assistant Usage Analysis and Prediction
