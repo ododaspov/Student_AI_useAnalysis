@@ -144,13 +144,4 @@ project/
 │── README.md                             # Project documentation  
 ```
 
----
-
-## Contributing
-
-Contributions are welcome. Please fork the repository, create a feature branch, and submit a pull request with detailed explanations of modifications.
-
----
-
-Do you want me to **keep this README as a general-purpose guide** or make it more **step-by-step (aligned exactly with your numbered code cells 1–40)**?
 
