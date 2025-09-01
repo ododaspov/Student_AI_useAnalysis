@@ -1,5 +1,3 @@
----
-
 # Student AI Assistant Usage Analysis and Prediction
 
 ## Overview
